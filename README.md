@@ -1,4 +1,4 @@
-# Chilhood Preventable Vaccine Disease Case Counts and Incidence Rate Trend Analysis between 2022-2024
+# Childhood Preventable Vaccine Disease Case Counts and Incidence Rate Trend Analysis between 2022-2024
 
 ## Overview
 - This project analyzes chilhood preventable vaccine diseases case counts and incidence rate trends over time to support public health surveillance using the Center for Disease Control and Prevention (CDC) National Notifiable Disease Surveillance System (NNDSS) dataset.
@@ -8,20 +8,13 @@
 Data were obtained from publicly available surveillance sources. Raw datasets are included when permitted; otherwise, only cleaned and aggregated datasets are shared.
 
 ## Repository Structure
-├── `README.md` — This file
-├── `data`
-│    ├── `raw` — Original raw datasets
-│    │      ├── `CDC_NNDSS_Weekly_Data_2025-10-30.csv` - 
-│    │      ├── `nationalpopulation_dataset.csv` - 
-│    │      └── `statepopulation_dataset.csv` - 
-│    └── `processed` — Cleaned and merged datasets used in analysis
-│           ├── `CVPDnational_by_year.csv` - 
-│           └── `CVPDstate_by_year` - 
-├── `scripts` — R script(s) for data cleaning, manipulation, and analysis
-│       └──  `CVPD_data_anaylsis` -
-├── `tables` — Final tables used to create figures
-├── `figures` — Graphs and visual outputs
-└── `documents` — Presentation summarizing background, methods, limitations, and results
+- `README.md` — This file
+- `data/raw` — Original raw datasets
+- `data/processed` — Cleaned and merged datasets used in analysis
+- `scripts` — R script(s) for data cleaning, manipulation, and analysis
+- `tables` — Final tables used to create figures
+- `figures` — Graphs and visual outputs
+- `documents` — Presentation summarizing background, methods, limitations, and results
 
 ## Key Outputs
 - Final tables summarizing disease case counts and incidence rates
