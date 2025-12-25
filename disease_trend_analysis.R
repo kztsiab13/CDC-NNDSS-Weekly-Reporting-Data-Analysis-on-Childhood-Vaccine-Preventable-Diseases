@@ -1,7 +1,6 @@
 #Hack the Gap Personal Project
 ##Katherine Thao
-###CDC Disease Reporting Dataset
-
+###CDC NNDSS Weekly Reporting Data Analysis on Childhood Vaccine Preventable Diseases (CVPDs)
 
 #Installing R packages
 library(tidyverse)
@@ -317,5 +316,6 @@ pertussis_staterates2024 <- pertussis_staterates %>%
          incidence_rate) %>%
   filter(`Current MMWR Year` == 2024) %>%
   arrange(-incidence_rate)
+
 
 
