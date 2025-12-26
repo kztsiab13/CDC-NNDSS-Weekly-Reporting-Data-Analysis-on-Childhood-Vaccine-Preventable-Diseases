@@ -1,4 +1,4 @@
-# Childhood Preventable Vaccine Disease Case Counts and Incidence Rate Trend Analysis between 2022-2024
+# Childhood Preventable Vaccine Disease (CPVD) Case Counts and Incidence Rate Trend Analysis between 2022-2024
 
 ## Overview
 - This project analyzes childhood preventable vaccine diseases case counts and incidence rate trends over time to support public health surveillance using the CDC National Notifiable Disease Surveillance System (NNDSS) dataset.
