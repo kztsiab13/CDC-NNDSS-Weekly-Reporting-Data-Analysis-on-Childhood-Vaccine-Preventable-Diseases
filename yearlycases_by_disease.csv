@@ -1,0 +1,32 @@
+"Current MMWR Year","Disease_Category","total_cases"
+2024,"Hepatitis A",1463
+2022,"Hepatitis B",14
+2023,"Hepatitis B",9
+2024,"Hepatitis B",36218
+2022,"Influenza",4308
+2023,"Influenza",6108
+2024,"Influenza",6395
+2022,"Measles",122
+2023,"Measles",47
+2024,"Measles",266
+2022,"Meningococcal",282
+2023,"Meningococcal",384
+2024,"Meningococcal",477
+2022,"Mumps",323
+2023,"Mumps",429
+2024,"Mumps",358
+2022,"Pertussis",2388
+2023,"Pertussis",5611
+2024,"Pertussis",35435
+2022,"Pneumococcal",14804
+2023,"Pneumococcal",18013
+2024,"Pneumococcal",18867
+2022,"Polio",0
+2023,"Polio",0
+2024,"Polio",0
+2022,"Rubella",29
+2023,"Rubella",3
+2024,"Rubella",9
+2022,"Varicella",3890
+2023,"Varicella",5773
+2024,"Varicella",6061

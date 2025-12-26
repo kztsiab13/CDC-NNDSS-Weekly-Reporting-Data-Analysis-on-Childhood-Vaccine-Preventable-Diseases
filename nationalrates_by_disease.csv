@@ -1,0 +1,32 @@
+"Current MMWR Year","Disease_Category","incidence_rate"
+2024,"Hepatitis A",0.43
+2022,"Hepatitis B",0
+2023,"Hepatitis B",0
+2024,"Hepatitis B",10.65
+2022,"Influenza",1.29
+2023,"Influenza",1.81
+2024,"Influenza",1.88
+2022,"Measles",0.04
+2023,"Measles",0.01
+2024,"Measles",0.08
+2022,"Meningococcal",0.08
+2023,"Meningococcal",0.11
+2024,"Meningococcal",0.14
+2022,"Mumps",0.1
+2023,"Mumps",0.13
+2024,"Mumps",0.11
+2022,"Pertussis",0.71
+2023,"Pertussis",1.67
+2024,"Pertussis",10.42
+2022,"Pneumococcal",4.43
+2023,"Pneumococcal",5.35
+2024,"Pneumococcal",5.55
+2022,"Polio",0
+2023,"Polio",0
+2024,"Polio",0
+2022,"Rubella",0.01
+2023,"Rubella",0
+2024,"Rubella",0
+2022,"Varicella",1.16
+2023,"Varicella",1.71
+2024,"Varicella",1.78

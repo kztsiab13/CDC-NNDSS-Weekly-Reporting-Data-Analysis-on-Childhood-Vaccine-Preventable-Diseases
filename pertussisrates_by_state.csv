@@ -1,0 +1,154 @@
+"Reporting Area","Current MMWR Year","Disease_Category","total_cases","Population","incidence_rate"
+"Alabama",2022,"Pertussis",48,5076181,0.95
+"Alabama",2023,"Pertussis",31,5117673,0.61
+"Alabama",2024,"Pertussis",389,5157699,7.54
+"Alaska",2022,"Pertussis",2,734442,0.27
+"Alaska",2023,"Pertussis",22,736510,2.99
+"Alaska",2024,"Pertussis",595,740133,80.39
+"Arizona",2022,"Pertussis",104,7377566,1.41
+"Arizona",2023,"Pertussis",337,7473027,4.51
+"Arizona",2024,"Pertussis",762,7582384,10.05
+"Arkansas",2022,"Pertussis",16,3047704,0.52
+"Arkansas",2023,"Pertussis",17,3069463,0.55
+"Arkansas",2024,"Pertussis",299,3088354,9.68
+"California",2022,"Pertussis",84,39142414,0.21
+"California",2023,"Pertussis",196,39198693,0.5
+"California",2024,"Pertussis",1775,39431263,4.5
+"Colorado",2022,"Pertussis",252,5850935,4.31
+"Colorado",2023,"Pertussis",244,5901339,4.13
+"Colorado",2024,"Pertussis",655,5957493,10.99
+"Connecticut",2022,"Pertussis",7,3617925,0.19
+"Connecticut",2023,"Pertussis",0,3643023,0
+"Connecticut",2024,"Pertussis",286,3675069,7.78
+"Delaware",2022,"Pertussis",1,1020625,0.1
+"Delaware",2023,"Pertussis",2,1036423,0.19
+"Delaware",2024,"Pertussis",53,1051917,5.04
+"District Of Columbia",2022,"Pertussis",3,NA,NA
+"District Of Columbia",2023,"Pertussis",5,NA,NA
+"District Of Columbia",2024,"Pertussis",22,NA,NA
+"Florida",2022,"Pertussis",59,22379312,0.26
+"Florida",2023,"Pertussis",90,22904868,0.39
+"Florida",2024,"Pertussis",732,23372215,3.13
+"Georgia",2022,"Pertussis",41,10931805,0.38
+"Georgia",2023,"Pertussis",82,11064432,0.74
+"Georgia",2024,"Pertussis",280,11180878,2.5
+"Hawaii",2022,"Pertussis",6,1440359,0.42
+"Hawaii",2023,"Pertussis",2,1441387,0.14
+"Hawaii",2024,"Pertussis",70,1446146,4.84
+"Idaho",2022,"Pertussis",9,1944299,0.46
+"Idaho",2023,"Pertussis",13,1971122,0.66
+"Idaho",2024,"Pertussis",1049,2001619,52.41
+"Illinois",2022,"Pertussis",80,12621821,0.63
+"Illinois",2023,"Pertussis",607,12642259,4.8
+"Illinois",2024,"Pertussis",2304,12710158,18.13
+"Indiana",2022,"Pertussis",69,6844545,1.01
+"Indiana",2023,"Pertussis",138,6880131,2.01
+"Indiana",2024,"Pertussis",468,6924275,6.76
+"Iowa",2022,"Pertussis",23,3202820,0.72
+"Iowa",2023,"Pertussis",52,3218414,1.62
+"Iowa",2024,"Pertussis",353,3241488,10.89
+"Kansas",2022,"Pertussis",9,2937324,0.31
+"Kansas",2023,"Pertussis",59,2951500,2
+"Kansas",2024,"Pertussis",253,2970606,8.52
+"Kentucky",2022,"Pertussis",35,4519233,0.77
+"Kentucky",2023,"Pertussis",94,4550595,2.07
+"Kentucky",2024,"Pertussis",471,4588372,10.27
+"Louisiana",2022,"Pertussis",3,4593687,0.07
+"Louisiana",2023,"Pertussis",11,4588071,0.24
+"Louisiana",2024,"Pertussis",129,4597740,2.81
+"Maine",2022,"Pertussis",74,1390922,5.32
+"Maine",2023,"Pertussis",67,1399646,4.79
+"Maine",2024,"Pertussis",178,1405012,12.67
+"Maryland",2022,"Pertussis",14,6192440,0.23
+"Maryland",2023,"Pertussis",20,6217062,0.32
+"Maryland",2024,"Pertussis",235,6263220,3.75
+"Massachusetts",2022,"Pertussis",6,7022468,0.09
+"Massachusetts",2023,"Pertussis",10,7066568,0.14
+"Massachusetts",2024,"Pertussis",841,7136171,11.79
+"Michigan",2022,"Pertussis",67,10050877,0.67
+"Michigan",2023,"Pertussis",86,10083356,0.85
+"Michigan",2024,"Pertussis",1683,10140459,16.6
+"Minnesota",2022,"Pertussis",14,5721621,0.24
+"Minnesota",2023,"Pertussis",25,5753048,0.43
+"Minnesota",2024,"Pertussis",1895,5793151,32.71
+"Mississippi",2022,"Pertussis",1,2941939,0.03
+"Mississippi",2023,"Pertussis",3,2943172,0.1
+"Mississippi",2024,"Pertussis",46,2943045,1.56
+"Missouri",2022,"Pertussis",22,6179414,0.36
+"Missouri",2023,"Pertussis",71,6208038,1.14
+"Missouri",2024,"Pertussis",773,6245466,12.38
+"Montana",2022,"Pertussis",2,1122095,0.18
+"Montana",2023,"Pertussis",45,1131302,3.98
+"Montana",2024,"Pertussis",115,1137233,10.11
+"Nebraska",2022,"Pertussis",29,1972246,1.47
+"Nebraska",2023,"Pertussis",13,1987864,0.65
+"Nebraska",2024,"Pertussis",419,2005465,20.89
+"Nevada",2022,"Pertussis",145,3176116,4.57
+"Nevada",2023,"Pertussis",20,3214363,0.62
+"Nevada",2024,"Pertussis",8,3267467,0.24
+"New Hampshire",2022,"Pertussis",2,1396678,0.14
+"New Hampshire",2023,"Pertussis",4,1402199,0.29
+"New Hampshire",2024,"Pertussis",54,1409032,3.83
+"New Jersey",2022,"Pertussis",0,9295227,0
+"New Jersey",2023,"Pertussis",88,9379642,0.94
+"New Jersey",2024,"Pertussis",423,9500851,4.45
+"New Mexico",2022,"Pertussis",44,2113868,2.08
+"New Mexico",2023,"Pertussis",37,2121164,1.74
+"New Mexico",2024,"Pertussis",101,2130256,4.74
+"New York",2022,"Pertussis",199,19703747,1.01
+"New York",2023,"Pertussis",534,19737367,2.71
+"New York",2024,"Pertussis",1735,19867248,8.73
+"North Carolina",2022,"Pertussis",33,10710793,0.31
+"North Carolina",2023,"Pertussis",81,10881189,0.74
+"North Carolina",2024,"Pertussis",757,11046024,6.85
+"North Dakota",2022,"Pertussis",13,781057,1.66
+"North Dakota",2023,"Pertussis",15,789047,1.9
+"North Dakota",2024,"Pertussis",138,796568,17.32
+"Ohio",2022,"Pertussis",145,11777874,1.23
+"Ohio",2023,"Pertussis",810,11824034,6.85
+"Ohio",2024,"Pertussis",1708,11883304,14.37
+"Oklahoma",2022,"Pertussis",0,4026229,0
+"Oklahoma",2023,"Pertussis",6,4063882,0.15
+"Oklahoma",2024,"Pertussis",469,4095393,11.45
+"Oregon",2022,"Pertussis",23,4247372,0.54
+"Oregon",2023,"Pertussis",35,4253653,0.82
+"Oregon",2024,"Pertussis",1039,4272371,24.32
+"Pennsylvania",2022,"Pertussis",96,12984990,0.74
+"Pennsylvania",2023,"Pertussis",381,13017721,2.93
+"Pennsylvania",2024,"Pertussis",2889,13078751,22.09
+"Rhode Island",2022,"Pertussis",0,1099498,0
+"Rhode Island",2023,"Pertussis",2,1103429,0.18
+"Rhode Island",2024,"Pertussis",100,1112308,8.99
+"South Carolina",2022,"Pertussis",44,5287935,0.83
+"South Carolina",2023,"Pertussis",47,5387830,0.87
+"South Carolina",2024,"Pertussis",277,5478831,5.06
+"South Dakota",2022,"Pertussis",1,909723,0.11
+"South Dakota",2023,"Pertussis",41,918305,4.46
+"South Dakota",2024,"Pertussis",268,924669,28.98
+"Tennessee",2022,"Pertussis",35,7062217,0.5
+"Tennessee",2023,"Pertussis",78,7148304,1.09
+"Tennessee",2024,"Pertussis",355,7227750,4.91
+"Texas",2022,"Pertussis",162,30113488,0.54
+"Texas",2023,"Pertussis",280,30727890,0.91
+"Texas",2024,"Pertussis",1156,31290831,3.69
+"Utah",2022,"Pertussis",109,3391011,3.21
+"Utah",2023,"Pertussis",205,3443222,5.95
+"Utah",2024,"Pertussis",263,3503613,7.51
+"Vermont",2022,"Pertussis",2,648142,0.31
+"Vermont",2023,"Pertussis",0,648708,0
+"Vermont",2024,"Pertussis",97,648493,14.96
+"Virginia",2022,"Pertussis",65,8683414,0.75
+"Virginia",2023,"Pertussis",113,8734685,1.29
+"Virginia",2024,"Pertussis",788,8811195,8.94
+"Washington",2022,"Pertussis",74,7794123,0.95
+"Washington",2023,"Pertussis",68,7857320,0.87
+"Washington",2024,"Pertussis",2029,7958180,25.5
+"West Virginia",2022,"Pertussis",13,1774122,0.73
+"West Virginia",2023,"Pertussis",26,1770495,1.47
+"West Virginia",2024,"Pertussis",35,1769979,1.98
+"Wisconsin",2022,"Pertussis",19,5903975,0.32
+"Wisconsin",2023,"Pertussis",31,5930405,0.52
+"Wisconsin",2024,"Pertussis",2647,5960975,44.41
+"Wyoming",2022,"Pertussis",2,581978,0.34
+"Wyoming",2023,"Pertussis",0,585067,0
+"Wyoming",2024,"Pertussis",0,587618,0

@@ -1,0 +1,154 @@
+"Reporting Area","Current MMWR Year","Disease_Category","total_cases","Population","incidence_rate"
+"Alabama",2022,"Measles",0,5076181,0
+"Alabama",2023,"Measles",0,5117673,0
+"Alabama",2024,"Measles",0,5157699,0
+"Alaska",2022,"Measles",0,734442,0
+"Alaska",2023,"Measles",0,736510,0
+"Alaska",2024,"Measles",0,740133,0
+"Arizona",2022,"Measles",5,7377566,0.07
+"Arizona",2023,"Measles",1,7473027,0.01
+"Arizona",2024,"Measles",5,7582384,0.07
+"Arkansas",2022,"Measles",0,3047704,0
+"Arkansas",2023,"Measles",0,3069463,0
+"Arkansas",2024,"Measles",0,3088354,0
+"California",2022,"Measles",0,39142414,0
+"California",2023,"Measles",3,39198693,0.01
+"California",2024,"Measles",15,39431263,0.04
+"Colorado",2022,"Measles",0,5850935,0
+"Colorado",2023,"Measles",0,5901339,0
+"Colorado",2024,"Measles",0,5957493,0
+"Connecticut",2022,"Measles",0,3617925,0
+"Connecticut",2023,"Measles",0,3643023,0
+"Connecticut",2024,"Measles",0,3675069,0
+"Delaware",2022,"Measles",0,1020625,0
+"Delaware",2023,"Measles",0,1036423,0
+"Delaware",2024,"Measles",0,1051917,0
+"District Of Columbia",2022,"Measles",0,NA,NA
+"District Of Columbia",2023,"Measles",2,NA,NA
+"District Of Columbia",2024,"Measles",1,NA,NA
+"Florida",2022,"Measles",0,22379312,0
+"Florida",2023,"Measles",2,22904868,0.01
+"Florida",2024,"Measles",12,23372215,0.05
+"Georgia",2022,"Measles",0,10931805,0
+"Georgia",2023,"Measles",0,11064432,0
+"Georgia",2024,"Measles",6,11180878,0.05
+"Hawaii",2022,"Measles",1,1440359,0.07
+"Hawaii",2023,"Measles",2,1441387,0.14
+"Hawaii",2024,"Measles",0,1446146,0
+"Idaho",2022,"Measles",0,1944299,0
+"Idaho",2023,"Measles",8,1971122,0.41
+"Idaho",2024,"Measles",0,2001619,0
+"Illinois",2022,"Measles",0,12621821,0
+"Illinois",2023,"Measles",5,12642259,0.04
+"Illinois",2024,"Measles",67,12710158,0.53
+"Indiana",2022,"Measles",0,6844545,0
+"Indiana",2023,"Measles",0,6880131,0
+"Indiana",2024,"Measles",1,6924275,0.01
+"Iowa",2022,"Measles",0,3202820,0
+"Iowa",2023,"Measles",0,3218414,0
+"Iowa",2024,"Measles",0,3241488,0
+"Kansas",2022,"Measles",0,2937324,0
+"Kansas",2023,"Measles",0,2951500,0
+"Kansas",2024,"Measles",0,2970606,0
+"Kentucky",2022,"Measles",0,4519233,0
+"Kentucky",2023,"Measles",1,4550595,0.02
+"Kentucky",2024,"Measles",0,4588372,0
+"Louisiana",2022,"Measles",0,4593687,0
+"Louisiana",2023,"Measles",0,4588071,0
+"Louisiana",2024,"Measles",3,4597740,0.07
+"Maine",2022,"Measles",0,1390922,0
+"Maine",2023,"Measles",0,1399646,0
+"Maine",2024,"Measles",0,1405012,0
+"Maryland",2022,"Measles",0,6192440,0
+"Maryland",2023,"Measles",1,6217062,0.02
+"Maryland",2024,"Measles",1,6263220,0.02
+"Massachusetts",2022,"Measles",0,7022468,0
+"Massachusetts",2023,"Measles",0,7066568,0
+"Massachusetts",2024,"Measles",1,7136171,0.01
+"Michigan",2022,"Measles",2,10050877,0.02
+"Michigan",2023,"Measles",1,10083356,0.01
+"Michigan",2024,"Measles",6,10140459,0.06
+"Minnesota",2022,"Measles",22,5721621,0.38
+"Minnesota",2023,"Measles",0,5753048,0
+"Minnesota",2024,"Measles",68,5793151,1.17
+"Mississippi",2022,"Measles",0,2941939,0
+"Mississippi",2023,"Measles",0,2943172,0
+"Mississippi",2024,"Measles",0,2943045,0
+"Missouri",2022,"Measles",0,6179414,0
+"Missouri",2023,"Measles",1,6208038,0.02
+"Missouri",2024,"Measles",2,6245466,0.03
+"Montana",2022,"Measles",0,1122095,0
+"Montana",2023,"Measles",0,1131302,0
+"Montana",2024,"Measles",0,1137233,0
+"Nebraska",2022,"Measles",0,1972246,0
+"Nebraska",2023,"Measles",0,1987864,0
+"Nebraska",2024,"Measles",0,2005465,0
+"Nevada",2022,"Measles",2,3176116,0.06
+"Nevada",2023,"Measles",0,3214363,0
+"Nevada",2024,"Measles",0,3267467,0
+"New Hampshire",2022,"Measles",0,1396678,0
+"New Hampshire",2023,"Measles",0,1402199,0
+"New Hampshire",2024,"Measles",2,1409032,0.14
+"New Jersey",2022,"Measles",0,9295227,0
+"New Jersey",2023,"Measles",1,9379642,0.01
+"New Jersey",2024,"Measles",2,9500851,0.02
+"New Mexico",2022,"Measles",0,2113868,0
+"New Mexico",2023,"Measles",0,2121164,0
+"New Mexico",2024,"Measles",2,2130256,0.09
+"New York",2022,"Measles",0,19703747,0
+"New York",2023,"Measles",0,19737367,0
+"New York",2024,"Measles",1,19867248,0.01
+"North Carolina",2022,"Measles",0,10710793,0
+"North Carolina",2023,"Measles",0,10881189,0
+"North Carolina",2024,"Measles",1,11046024,0.01
+"North Dakota",2022,"Measles",0,781057,0
+"North Dakota",2023,"Measles",0,789047,0
+"North Dakota",2024,"Measles",0,796568,0
+"Ohio",2022,"Measles",87,11777874,0.74
+"Ohio",2023,"Measles",4,11824034,0.03
+"Ohio",2024,"Measles",7,11883304,0.06
+"Oklahoma",2022,"Measles",0,4026229,0
+"Oklahoma",2023,"Measles",0,4063882,0
+"Oklahoma",2024,"Measles",1,4095393,0.02
+"Oregon",2022,"Measles",0,4247372,0
+"Oregon",2023,"Measles",2,4253653,0.05
+"Oregon",2024,"Measles",30,4272371,0.7
+"Pennsylvania",2022,"Measles",0,12984990,0
+"Pennsylvania",2023,"Measles",6,13017721,0.05
+"Pennsylvania",2024,"Measles",4,13078751,0.03
+"Rhode Island",2022,"Measles",0,1099498,0
+"Rhode Island",2023,"Measles",0,1103429,0
+"Rhode Island",2024,"Measles",0,1112308,0
+"South Carolina",2022,"Measles",1,5287935,0.02
+"South Carolina",2023,"Measles",0,5387830,0
+"South Carolina",2024,"Measles",1,5478831,0.02
+"South Dakota",2022,"Measles",0,909723,0
+"South Dakota",2023,"Measles",0,918305,0
+"South Dakota",2024,"Measles",1,924669,0.11
+"Tennessee",2022,"Measles",0,7062217,0
+"Tennessee",2023,"Measles",0,7148304,0
+"Tennessee",2024,"Measles",4,7227750,0.06
+"Texas",2022,"Measles",0,30113488,0
+"Texas",2023,"Measles",3,30727890,0.01
+"Texas",2024,"Measles",0,31290831,0
+"Utah",2022,"Measles",0,3391011,0
+"Utah",2023,"Measles",1,3443222,0.03
+"Utah",2024,"Measles",0,3503613,0
+"Vermont",2022,"Measles",0,648142,0
+"Vermont",2023,"Measles",0,648708,0
+"Vermont",2024,"Measles",2,648493,0.31
+"Virginia",2022,"Measles",2,8683414,0.02
+"Virginia",2023,"Measles",1,8734685,0.01
+"Virginia",2024,"Measles",1,8811195,0.01
+"Washington",2022,"Measles",0,7794123,0
+"Washington",2023,"Measles",1,7857320,0.01
+"Washington",2024,"Measles",3,7958180,0.04
+"West Virginia",2022,"Measles",0,1774122,0
+"West Virginia",2023,"Measles",0,1770495,0
+"West Virginia",2024,"Measles",1,1769979,0.06
+"Wisconsin",2022,"Measles",0,5903975,0
+"Wisconsin",2023,"Measles",1,5930405,0.02
+"Wisconsin",2024,"Measles",1,5960975,0.02
+"Wyoming",2022,"Measles",0,581978,0
+"Wyoming",2023,"Measles",0,585067,0
+"Wyoming",2024,"Measles",0,587618,0
