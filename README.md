@@ -1,18 +1,18 @@
 # Childhood Preventable Vaccine Disease Case Counts and Incidence Rate Trend Analysis between 2022-2024
 
 ## Overview
-- This project analyzes chilhood preventable vaccine diseases case counts and incidence rate trends over time to support public health surveillance using the Center for Disease Control and Prevention (CDC) National Notifiable Disease Surveillance System (NNDSS) dataset.
+- This project analyzes childhood preventable vaccine diseases case counts and incidence rate trends over time to support public health surveillance using the CDC National Notifiable Disease Surveillance System (NNDSS) dataset.
 - The goal is to identify patterns in disease burden and provide insights for public health monitoring.
 
 ## Data Source
 This project uses the following publicly available datasets:
-- CDC National Notifiable Diseases Surveillance System (NNDSS) at https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data (NOTE: File size is not included in this repository due to size limitations; Data used here in this analysis was last updated on September 24, 2025)
-- National and State U.S. Population data used to calculate incidence rates were derived from the U.S. Census Bureau and World Population Review, processed into analysis-ready datasets included in the `data/processed/` directory. 
+- CDC National Notifiable Diseases Surveillance System (NNDSS) at https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data (NOTE: File size is not included in this repository due to size limitations; This analysis uses data from the CDC NNDSS dataset last updated on September 24, 2025)
+- National and State U.S. Population data used to calculate disease incidence rates were derived from the U.S. Census Bureau (https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html?utm_source=chatgpt.com) and World Population Review (https://worldpopulationreview.com/states) numbers. Data points from both sources were taken and processed into the two raw datasets included in the `data/raw` directory. 
 
 ## Repository Structure
 - `README.md` — This file
-- `data/raw` — Original raw datasets
-- `data/processed` — Cleaned and merged datasets used in analysis
+- `raw data` — Original raw datasets
+- `processed data` — Cleaned and merged datasets used in analysis
 - `scripts` — R script(s) for data cleaning, manipulation, and analysis
 - `tables` — Final tables used to create figures
 - `figures` — Graphs and visual outputs
@@ -21,7 +21,7 @@ This project uses the following publicly available datasets:
 ## Key Outputs
 - Final tables summarizing disease case counts and incidence rates
 - Figures displaying trends over time
-- Full methods, analysis steps, and results summarized in the presentation
+- Full methods, analysis steps, and results are summarized in the presentation
 
 ## Tools Used
 - Microsoft Excel
