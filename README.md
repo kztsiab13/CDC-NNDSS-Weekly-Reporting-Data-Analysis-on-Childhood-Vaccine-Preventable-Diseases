@@ -5,7 +5,9 @@
 - The goal is to identify patterns in disease burden and provide insights for public health monitoring.
 
 ## Data Source
-Data were obtained from publicly available surveillance sources. Raw datasets are included when permitted; otherwise, only cleaned and aggregated datasets are shared.
+This project uses the following publicly available datasets:
+- CDC National Notifiable Diseases Surveillance System (NNDSS) at https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data (NOTE: File size is not included in this repository due to size limitations; Data used here in this analysis was last updated on September 24, 2025)
+- National and State U.S. Population data used to calculate incidence rates were derived from the U.S. Census Bureau and World Population Review, processed into analysis-ready datasets included in the `data/processed/` directory. 
 
 ## Repository Structure
 - `README.md` — This file
