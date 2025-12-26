@@ -11,12 +11,12 @@ This project uses the following publicly available datasets:
 
 ## Repository Structure
 - `README.md` — This file
-- `raw data` — Original raw datasets
-- `processed data` — Cleaned and merged datasets used in analysis
-- `scripts` — R script(s) for data cleaning, manipulation, and analysis
-- `tables` — Final tables used to create figures
-- `figures` — Graphs and visual outputs
-- `documents` — Presentation summarizing background, methods, limitations, and results
+- `Raw dataset` — Original raw datasets
+- `Processed dataset` — Cleaned and merged datasets used in analysis
+- `R-scripts` — R script(s) for data cleaning, manipulation, and analysis
+- `Tables` — Final tables used to create figures
+- `Figures` — Graphs and visual outputs
+- `Documents` — Presentation summarizing background, methods, limitations, and results
 
 ## Key Outputs
 - Final tables summarizing disease case counts and incidence rates
